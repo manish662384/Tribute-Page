@@ -1,6 +1,5 @@
-This is a basic Front End Web page using HTML,CSS and Bootstrap.
-
-I have made a basic 'Tribute Page' project dedicated to 'Elon Musk'.
+I have made a basic 'Tribute Page' project dedicated to 'Elon Musk'. This is a basic Front End Web page using HTML,CSS and Bootstrap for responsive 
+layout which can viewed seamlessly across all platforms such as tab/mobile.
 
 
 User stories:
